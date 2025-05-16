@@ -1,4 +1,4 @@
-module github.com/Cyber-cicco/opt
+module github.com/Cyber-cicco/gonoerr
 
 go 1.23.3
 

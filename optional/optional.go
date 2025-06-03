@@ -1,8 +1,6 @@
 package optional
 
-import (
-	"github.com/Cyber-cicco/opt/result"
-)
+import "github.com/Cyber-cicco/gonoerr/result"
 
 type Opt[T any] struct {
 	content *T
